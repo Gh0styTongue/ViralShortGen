@@ -1,3 +1,5 @@
+# ⚠️ This repository should be considered abandoned.
+
 # ViralShortGen
 
 **ViralShortGen** is a Python-based tool for generating YouTube Shorts from trending videos. It intelligently picks the most exciting moments from the videos and learns from user feedback to create short, engaging clips perfect for going viral.
